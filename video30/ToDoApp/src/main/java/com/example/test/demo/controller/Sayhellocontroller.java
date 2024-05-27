@@ -5,7 +5,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 
 @Controller
-public class Sayhellocontroller {
+public class SayHelloController {
 
 //"say-hello" => "Hello! What are you learning today?"
 
